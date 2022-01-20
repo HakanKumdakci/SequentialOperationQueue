@@ -11,5 +11,5 @@ This is not the best solution. Best solution seems like using subclass of operat
 
 References:
 
-[1] https://github.com/iTamilan/AsyncOperationQueue/blob/master/AsyncOperationQueue/AsyncOperationQueue/Operations/AsynchronousOperation.swift
+[1] https://gist.github.com/Sorix/57bc3295dc001434fe08acbb053ed2bc
 
